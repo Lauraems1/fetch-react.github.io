@@ -4,7 +4,7 @@ In this exercise, we practiced with useState, useEffect, useReducer, fetch and a
 
 ## Image
 
-<img src="/src/images/captura.png" width= '300'/>
+<img src="/src/captura.png" width= '300'/>
 
 ## Available Scripts
 
