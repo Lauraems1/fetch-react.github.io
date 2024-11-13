@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Fetching data in a React App from an external source, using bootstrap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this exercise, we practiced with useState, useEffect, useReducer, fetch and axios to develop a webside where the user can filter (using keywords) the titles of a list of documents that are fetched from a external source. In this specific case, the external source is a MIT news webpage.
+
+<imag src="captura.png" width="300"></imag>
 
 ## Available Scripts
 
