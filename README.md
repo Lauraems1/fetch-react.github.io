@@ -2,7 +2,9 @@
 
 In this exercise, we practiced with useState, useEffect, useReducer, fetch and axios to develop a webside where the user can filter (using keywords) the titles of a list of documents that are fetched from a external source. In this specific case, the external source is a MIT news webpage.
 
-<img src="captura.png" width='300' />
+## Image
+
+<img src="/src/images/captura.png" width= '300'/>
 
 ## Available Scripts
 
